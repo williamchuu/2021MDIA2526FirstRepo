@@ -5,6 +5,6 @@
 <title>Error</title>
 </head>
 <body>
-<pre>Cannot GET /main</pre>
+<pre>Cannot GET /js</pre>
 </body>
 </html>
