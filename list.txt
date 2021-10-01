@@ -1,3 +1,14 @@
+
+supplies
+pencil
+tape
+glue
+
+more supplies
+paper
+scissors
+book
+
 grocery list
 bread
 butter
@@ -7,3 +18,4 @@ shoes
 runners
 sneakers
 boots
+
