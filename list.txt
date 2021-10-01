@@ -2,3 +2,14 @@ grocery list
 bread
 butter
 jam
+
+
+supplies
+pencil
+tape
+glue
+
+more supplies
+paper
+scissors
+book
