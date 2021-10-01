@@ -1,3 +1,4 @@
+
 supplies
 pencil
 tape
@@ -7,3 +8,14 @@ more supplies
 paper
 scissors
 book
+
+grocery list
+bread
+butter
+jam
+
+shoes
+runners
+sneakers
+boots
+
